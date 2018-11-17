@@ -1,0 +1,36 @@
+h1{
+font-size: 60px;
+font-style: italic;
+color: firebrick;
+}
+
+h1{
+
+    border:0;
+    padding-left: 38%;
+    padding-top: 20%;
+    margin: 2px;
+}
+
+div{
+    padding-left: 33%
+     
+}
+
+body{
+    margin: 0;
+    
+        background-image: url("back.jpeg");
+    
+}
+
+span{
+    padding-left: 20px;
+}
+.but1{
+
+    background: white;
+    border: solid brown;
+
+}
+
